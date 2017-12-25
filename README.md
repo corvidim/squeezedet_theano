@@ -1,1 +1,3 @@
-# squeezeDet_Theano
+# squeezedet_theano
+
+[in progress...]
