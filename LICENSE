@@ -1,5 +1,19 @@
+Parts of the code in Squeezedet_Theano are derived from the
+following version of SqueezeDet by Bichen Wu:
+
+     Author    :  Bichen Wu
+     Date      :  22 November 2017
+     Source    :  https://github.com/BichenWuUCB/squeezeDet/
+     Commit    :  e7c0860 (Wed Nov 22 15:47:02 2017 -0800)
+
+Copyright for portions of the derived code in Squeezedet_Theano are
+held by Bichen Wu, 2016-2107. All other code in Squeezedet_Theano is
+copyright Corvidim, 2017. This code is published in accordance with
+and retains the same license as SqueezeDet by Bichen Wu.
+
 BSD 2-Clause License
 
+Copyright (c) 2016-2017, Bichen Wu
 Copyright (c) 2017, Corvidim
 All rights reserved.
 
