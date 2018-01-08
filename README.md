@@ -1,14 +1,15 @@
-# _SqueezeDet\_Theano_
+# SqueezeDet_Theano
 
-This is a port of Bichen Wu's SqueezeDet [1],[2] to Theano [3]
-and Lasagne [4].
+This is a reimplementation of Bichen Wu's SqueezeDet [1],[2] for Theano [3]
+and Lasagne [4] by [@corvidim](https://github.com/corvidim).
 
-SqueezeDet is particularly well-suited to low-power
-low-memory-consumption applications.
+SqueezeDet is particularly well-suited to low-power,
+low-memory-consumption applications. In particular, the trained
+weights take up less than 8Mb!
 
 This release includes:
 
-* Network weights trained on the KITTI dataset (`data/squeezedet_kitti.pkl.gz`, <8MB).
+* Network weights trained on the KITTI dataset (`data/squeezedet_kitti.pkl.gz`).
 
 * The detector ("prediction graph" and "interpretation graph"
 of the original TensorFlow implementation); training is not yet
